@@ -4,4 +4,4 @@
 
 
 Portfolio site, in the form of a blog.
-Write was using Bootstrap + Django.
+Bootstrap + Django.
